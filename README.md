@@ -69,3 +69,5 @@ QuizApp is built and maintained by [Safdar Jamal](https://safdarjamal.github.io)
 ## License
 
 Code released under the [MIT license](https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE).
+
+New Comment LOL
